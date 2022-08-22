@@ -1,4 +1,4 @@
-// original: https://www.shadertoy.com/view/ldXGW4
+// original: https://www.shadertoy.com/view/ldXGW4 by https://www.shadertoy.com/user/ehj1
 
 Texture2D shaderTexture;
 SamplerState samplerState;
