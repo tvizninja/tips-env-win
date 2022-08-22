@@ -1,6 +1,6 @@
 # Windows Terminal あれこれ
 
-## hlsl
+## Pixel Shader Option(hlsl)
 
 * Windows Terminalのsetting.jsonの、各種Profile-list中の適用したい環境設定の中に、hlslファイルへのパスを追加。
 

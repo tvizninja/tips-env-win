@@ -14,3 +14,7 @@
   * `pip install pyreadline`
   * `%appdata%Python\Python39\site-packages` に `usercustomize.py` を作成(内容は上記記事参照)
   * `%appdata%Python\Python39\site-packages` の `readline.py` に `redisplay = lambda: None` を追記
+
+## Windows Terminal 関係
+
+* [WindowsTerminalメモ](wt/README.md)
